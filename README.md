@@ -1,4 +1,4 @@
 # git-mk-acc
 
 2pt5 Cherniuk Dmytro
-Treść zadania
+Instalowanie GIT oraz tworzenie repozytorium
